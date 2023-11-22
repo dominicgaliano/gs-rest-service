@@ -4,12 +4,13 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 ![Top Tech][tech-shield]
-<!-- ![GitHub Workflow Status (with event)][github-status-shield] -->
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Spring Boot REST Service
 
 ## Description
+
+A simple Spring Boot REST Service
 
 ## Installation
 
@@ -31,3 +32,4 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [linkedin-url]: https://linkedin.com/in/dominic-galiano
 [tech-shield]: https://img.shields.io/github/languages/top/dominicgaliano/gs-rest-service.svg?style=for-the-badge
 <!-- [github-status-shield]: https://img.shields.io/github/actions/workflow/status/dominicgaliano/gs-rest-service/deploy.yml.svg?style=for-the-badge -->
+<!-- ![GitHub Workflow Status (with event)][github-status-shield] -->
